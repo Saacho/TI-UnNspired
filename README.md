@@ -1,5 +1,5 @@
 
-TIUninspired
+## TIUninspired
 
 a fun little graphing calculator
 
